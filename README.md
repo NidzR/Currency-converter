@@ -28,3 +28,4 @@ Note: You might want to consider:
 
 sreamlit run app.py
 
+https://nidzr-currency-converter-app-fyqzs3.streamlit.app/
